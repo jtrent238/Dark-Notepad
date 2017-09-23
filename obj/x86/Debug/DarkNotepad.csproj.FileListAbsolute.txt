@@ -1,0 +1,2 @@
+C:\Users\trent\Documents\Visual Studio 2013\Projects\DarkNotepad\NotepadClone\bin\Debug\WindowsApplication.exe.config
+C:\Users\trent\Documents\Visual Studio 2013\Projects\DarkNotepad\NotepadClone\bin\Debug\DarkNotepad.exe.config
